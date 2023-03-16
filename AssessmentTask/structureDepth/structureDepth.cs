@@ -21,42 +21,20 @@ class BranchStructure
     }
 
     //Function to find the depth of the structure
-    public static int depthOfStructure(Branch tree)
+    static int depthOfStructure(Branch ptr)
     {
+        // Base case
+        if (ptr == null)
+            return 0;
+ 
+        //Traverse all paths
+        //and find the one with the
+        //maximum depth
         int depth = 0;
-        if (tree == null)
-            return depth;
-
-        // Create a queue to traverse the structure
-        Queue<Branch> q = new Queue<Branch>();
-
-        // Enqueue whole structure to the queue
-        q.Enqueue(tree);
-
-        while (q.Count != 0)
-        {
-            int n = q.Count;
-
-            //Check to see if the current branch still
-            //has branches
-            while (n > 0)
-            {
-                // Dequeue an item from queue
-                Branch p = q.Peek();
-                q.Dequeue();
-
-                // Enqueue all branch of
-                // the dequeued branch
-                for (int i = 0; i < p.branches.Count; i++)
-                    q.Enqueue(p.branches[i]);
-                n--;
-            }
-
-            //Upon completing a structure level, increase
-            //depth counter
-            depth++;
-        }
-        return depth;
+        foreach (Branch it in ptr.branches)
+            depth = Math.Max(depth, depthOfStructure(it));
+ 
+        return depth + 1 ;
     }
 
     //Driver Code
