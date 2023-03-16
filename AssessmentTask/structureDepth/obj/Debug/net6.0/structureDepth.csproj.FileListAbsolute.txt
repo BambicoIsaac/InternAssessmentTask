@@ -1,0 +1,15 @@
+D:\Isaac\AssessmentTask\structureDepth\bin\Debug\net6.0\structureDepth.exe
+D:\Isaac\AssessmentTask\structureDepth\bin\Debug\net6.0\structureDepth.deps.json
+D:\Isaac\AssessmentTask\structureDepth\bin\Debug\net6.0\structureDepth.runtimeconfig.json
+D:\Isaac\AssessmentTask\structureDepth\bin\Debug\net6.0\structureDepth.dll
+D:\Isaac\AssessmentTask\structureDepth\bin\Debug\net6.0\structureDepth.pdb
+D:\Isaac\AssessmentTask\structureDepth\obj\Debug\net6.0\structureDepth.csproj.AssemblyReference.cache
+D:\Isaac\AssessmentTask\structureDepth\obj\Debug\net6.0\structureDepth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Isaac\AssessmentTask\structureDepth\obj\Debug\net6.0\structureDepth.AssemblyInfoInputs.cache
+D:\Isaac\AssessmentTask\structureDepth\obj\Debug\net6.0\structureDepth.AssemblyInfo.cs
+D:\Isaac\AssessmentTask\structureDepth\obj\Debug\net6.0\structureDepth.csproj.CoreCompileInputs.cache
+D:\Isaac\AssessmentTask\structureDepth\obj\Debug\net6.0\structureDepth.dll
+D:\Isaac\AssessmentTask\structureDepth\obj\Debug\net6.0\refint\structureDepth.dll
+D:\Isaac\AssessmentTask\structureDepth\obj\Debug\net6.0\structureDepth.pdb
+D:\Isaac\AssessmentTask\structureDepth\obj\Debug\net6.0\structureDepth.genruntimeconfig.cache
+D:\Isaac\AssessmentTask\structureDepth\obj\Debug\net6.0\ref\structureDepth.dll

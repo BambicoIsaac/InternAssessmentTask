@@ -1,0 +1,15 @@
+D:\Isaac\AssessmentTask\clockLesserAngle\bin\Debug\net6.0\clockLesserAngle.exe
+D:\Isaac\AssessmentTask\clockLesserAngle\bin\Debug\net6.0\clockLesserAngle.deps.json
+D:\Isaac\AssessmentTask\clockLesserAngle\bin\Debug\net6.0\clockLesserAngle.runtimeconfig.json
+D:\Isaac\AssessmentTask\clockLesserAngle\bin\Debug\net6.0\clockLesserAngle.dll
+D:\Isaac\AssessmentTask\clockLesserAngle\bin\Debug\net6.0\clockLesserAngle.pdb
+D:\Isaac\AssessmentTask\clockLesserAngle\obj\Debug\net6.0\clockLesserAngle.csproj.AssemblyReference.cache
+D:\Isaac\AssessmentTask\clockLesserAngle\obj\Debug\net6.0\clockLesserAngle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Isaac\AssessmentTask\clockLesserAngle\obj\Debug\net6.0\clockLesserAngle.AssemblyInfoInputs.cache
+D:\Isaac\AssessmentTask\clockLesserAngle\obj\Debug\net6.0\clockLesserAngle.AssemblyInfo.cs
+D:\Isaac\AssessmentTask\clockLesserAngle\obj\Debug\net6.0\clockLesserAngle.csproj.CoreCompileInputs.cache
+D:\Isaac\AssessmentTask\clockLesserAngle\obj\Debug\net6.0\clockLesserAngle.dll
+D:\Isaac\AssessmentTask\clockLesserAngle\obj\Debug\net6.0\refint\clockLesserAngle.dll
+D:\Isaac\AssessmentTask\clockLesserAngle\obj\Debug\net6.0\clockLesserAngle.pdb
+D:\Isaac\AssessmentTask\clockLesserAngle\obj\Debug\net6.0\clockLesserAngle.genruntimeconfig.cache
+D:\Isaac\AssessmentTask\clockLesserAngle\obj\Debug\net6.0\ref\clockLesserAngle.dll
